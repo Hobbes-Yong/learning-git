@@ -8,4 +8,4 @@ add modify 1
 o
 Creating a new branch is quick & simple.
 
-ssssgggg
+Creating a new branch is quick AND simple.
