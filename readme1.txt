@@ -5,3 +5,5 @@ Git is a good free software distributed under the GPL.
 Git has a mutable index called stage/index.
 Git tracks changes of files.
 add modify 1
+o
+Creating a new branch is quick.
